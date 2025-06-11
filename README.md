@@ -22,6 +22,7 @@ Uma animação em Java que mostra um coração "pulsando" no terminal usando ape
 ## 🚀 Como executar
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Nekuch-dev/Heart_Gift-java.git
-   cd Heart_Gift-java
+
+```bash
+git clone https://github.com/Nekuch-dev/Heart_Gift.git
+cd Heart_Gift
